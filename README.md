@@ -35,4 +35,3 @@ The main objective behind this project was to **apply the foundational concepts 
 |-------------|----------|
 | **HTML5** | Structure and content |
 | **CSS3** | Styling and layout |
-| **JavaScript** | To add the basic logics in the Website |
